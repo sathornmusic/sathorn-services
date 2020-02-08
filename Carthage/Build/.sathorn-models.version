@@ -1,0 +1,19 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "0.1.2",
+  "iOS" : [
+    {
+      "name" : "SathornModels",
+      "hash" : "2b5f2f69a3709575040292953b7fcf9161cafeecc72442ce9951c73e5579e9e9",
+      "swiftToolchainVersion" : "5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+    }
+  ]
+}

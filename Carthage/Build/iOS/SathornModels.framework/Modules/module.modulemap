@@ -1,0 +1,11 @@
+framework module SathornModels {
+  umbrella header "SathornModels.h"
+
+  export *
+  module * { export * }
+}
+
+module SathornModels.Swift {
+    header "SathornModels-Swift.h"
+    requires objc
+}

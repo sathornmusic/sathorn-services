@@ -1,0 +1,19 @@
+{
+  "Mac" : [
+
+  ],
+  "watchOS" : [
+
+  ],
+  "tvOS" : [
+
+  ],
+  "commitish" : "0.3.1",
+  "iOS" : [
+    {
+      "name" : "WhiteFlowerFactory",
+      "hash" : "5cb4d08c362b6cf9ddc1d5f40efff3b0119b2fafc7ade6ac17e29a7b34856fae",
+      "swiftToolchainVersion" : "5.1.2 (swiftlang-1100.0.278 clang-1100.0.33.9)"
+    }
+  ]
+}
